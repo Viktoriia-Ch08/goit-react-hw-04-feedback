@@ -11,7 +11,7 @@ export default function App() {
   const [bad, setBad] = useState(0);
   const [total, setTotal] = useState(0);
   const [positive, setPositive] = useState(0);
-
+  // comment
   const handleFeedbackButtonClick = mark => {
     switch (mark) {
       case 'good':
