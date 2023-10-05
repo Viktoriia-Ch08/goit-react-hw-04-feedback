@@ -2,12 +2,10 @@ import styled from 'styled-components';
 
 const Container = styled.div`
   width: 650px;
-  min-height: 670px;
-  max-height: 1050px;
   margin: 30px auto;
   padding: 30px;
 
-  font-size: 40px;
+  font-size: 30px;
 
   background-color: rgba(197, 144, 228, 0.8);
   border-radius: 20px;

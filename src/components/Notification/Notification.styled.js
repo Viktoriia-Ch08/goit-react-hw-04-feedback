@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Text = styled.p`
-  margin-top: 120px;
+  margin-bottom: 30px;
   text-align: center;
 `;
 
