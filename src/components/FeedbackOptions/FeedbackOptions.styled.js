@@ -5,6 +5,18 @@ const ButtonWrapper = styled.div`
   align-items: center;
   justify-content: center;
   gap: 40px;
+
+  .good:hover {
+    background-color: #55ad6b;
+  }
+
+  .neutral:hover {
+    background-color: #f5b731;
+  }
+
+  .bad:hover {
+    background-color: #f23d4b;
+  }
 `;
 
 const Button = styled.button`

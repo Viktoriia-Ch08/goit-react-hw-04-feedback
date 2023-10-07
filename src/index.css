@@ -19,15 +19,5 @@ h2, p {
   margin: 0;
 }
 
-.good:hover{
-  background-color: #55ad6b;
-}
 
-.neutral:hover {
-  background-color: #f5b731;
-}
-
-.bad:hover {
-  background-color: #f23d4b;
-}
 
